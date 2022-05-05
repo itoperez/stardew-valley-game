@@ -3156,6 +3156,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8403914912074062890, guid: 16e282f133f3afb468681db30cde2700, type: 3}
+      propertyPath: onOpenAudio
+      value: 
+      objectReference: {fileID: 8300000, guid: 17ba5bf9aedd3364cad01a08e1646a21, type: 3}
     - target: {fileID: 8403914912074062895, guid: 16e282f133f3afb468681db30cde2700, type: 3}
       propertyPath: m_Name
       value: ChestObject
